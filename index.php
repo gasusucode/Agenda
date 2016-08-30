@@ -2,7 +2,7 @@
 <body>
 
 
-
+<?php echo "hola gente"?>
 
 <?php include_once "inc/javascript.php";?>
 </body>
